@@ -1,5 +1,4 @@
-#   detector_rostro.py
-
+#   LIBRERIAS
 import cv2
 import os
 
